@@ -5,10 +5,15 @@
 </div>
 
 * 👨🏻‍🎓 Graduando em Engenharia da Computação pela [FIT - Faculdade Impacta Tecnologia](https://www.impacta.edu.br/)
-* 📖 Estudando e enriquecendo o meu portifófio com a linguagem python
+* 📖 Estudando e enriquecendo o meu portifófio.
 
 <div>
   <a href="https://github.com/Davi-Garci4">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Davi-Garci4&show_icons=true&theme=gotham&incluide_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Davi-Garci4&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Garci4&layout=compact&langs_count=7&theme=gotham"/>
 </div>
+
+
+
+
+![Snake animation](https://github.com/Davi-Garci4/Davi-Garci4/blob/output/github-contribution-grid-snake.svg)
