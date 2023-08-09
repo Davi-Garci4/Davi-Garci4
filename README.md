@@ -9,6 +9,6 @@
 
 <div>
   <a href="https://github.com/Davi-Garci4">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Davi-Garci4&show_icons=true&theme=gotham&include_all_commits=false&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Davi-Garci4&show_icons=true&theme=gotham&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Garci4&layout=compact&langs_count=7&theme=gotham"/>
 </div>
