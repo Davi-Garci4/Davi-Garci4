@@ -13,7 +13,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Garci4&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div style="display: inline-block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 ##
 
@@ -22,5 +22,5 @@
   <a href = "mailto:davigarcia2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davi-nascimento-garcia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- ![Snake animation](https://github.com/Davi-Garci4/Davi-Garci4/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Davi-Garci4/Davi-Garci4/blob/output/github-contribution-grid-snake.svg)
 </div>
